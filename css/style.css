@@ -707,13 +707,33 @@ p {
 h2 {
     font-size: 22px;
     font-weight: 700;
+    color: grey!important;
+}
+
+.mg-md{
+    font-size: 22px;
+    font-weight: 700;
     color: #333333!important;
     text-transform: uppercase;
 }
 
+
 h3 {
     font-size: 15px;
     line-height: 1.4em;    
+}
+
+.modif{
+    font-size: 15px;
+    font-weight: 500;
+    color: grey!important;
+}
+
+q{
+    font-size: 20px;
+    font-weight: 700;
+    font-style: oblique;
+    color: grey!important;
 }
 
 .med-width-whitespace {
