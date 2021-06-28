@@ -677,7 +677,8 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 16px;
+    color: black;
 }
 
 .tight-width-whitespace {
@@ -707,13 +708,13 @@ p {
 h2 {
     font-size: 22px;
     font-weight: 700;
-    color: grey!important;
+    color:black!important;
 }
 
 .mg-md{
     font-size: 22px;
     font-weight: 700;
-    color: #333333!important;
+    color: #33333!important;
     text-transform: uppercase;
 }
 
@@ -726,14 +727,14 @@ h3 {
 .modif{
     font-size: 15px;
     font-weight: 500;
-    color: grey!important;
+    color: black!important;
 }
 
 q{
     font-size: 20px;
     font-weight: 700;
     font-style: oblique;
-    color: grey!important;
+    color: black!important;
 }
 
 .med-width-whitespace {
@@ -748,6 +749,10 @@ h1 {
 
 h4 {
     color: #333333!important;
+}
+
+.pic{
+    font-size: 25px;
 }
 
 .icons {
