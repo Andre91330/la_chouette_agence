@@ -677,7 +677,7 @@ a {
 }
 
 p {
-    font-size: 16px;
+    font-size: 17px;
     color: black;
 }
 
@@ -714,14 +714,14 @@ h2 {
 .mg-md{
     font-size: 22px;
     font-weight: 700;
-    color: #33333!important;
-    text-transform: uppercase;
+    color: #33333!important; 
 }
 
 
 h3 {
     font-size: 15px;
-    line-height: 1.4em;    
+    line-height: 1.4em; 
+    text-transform: uppercase;
 }
 
 .modif{
