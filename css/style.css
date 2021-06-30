@@ -725,16 +725,21 @@ h3 {
 }
 
 .modif{
-    font-size: 15px;
+    font-size: 20px;
     font-weight: 500;
     color: black!important;
 }
 
 q{
-    font-size: 20px;
+    font-size: 22px;
     font-weight: 700;
     font-style: oblique;
     color: black!important;
+}
+
+.pic{
+    font-size: 22px;
+    font-weight: bold;
 }
 
 .med-width-whitespace {
